@@ -26,6 +26,7 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 ---
 
 ## 💻 Program
+~~~
   class Rectangle:
     __length = 0 
     __breadth = 0
@@ -36,6 +37,7 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
       print(self.__breadth)
    
   obj = Rectangle()
+~~~
 ## Output
 ![image](https://github.com/user-attachments/assets/b55f8ee0-4888-4820-844d-73f5b0d4a146)
 
